@@ -1,0 +1,2 @@
+Hello Rohit Your file is opened and data is written successfullyThankyou
+Thankyou
